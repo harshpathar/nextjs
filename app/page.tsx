@@ -168,7 +168,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Find in-depth information about Next.js features and API.
+            Describe how you solved a challenge that one of your previous teams faced.How did you determine your solution was successful?
           </p>
         </a>
 
@@ -185,7 +185,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Learn about Next.js in an interactive course with&nbsp;quizzes!
+            How would you compare Next.js with another framework? Feel free to compare with a framework of your choice.
           </p>
         </a>
 
@@ -202,7 +202,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Explore starter templates for Next.js.
+            “When should I choose to use Edge Functions, Serverless Functions, or Edge Middleware with Vercel?” Write a reply to the customer.
           </p>
         </a>
 
@@ -219,7 +219,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50 text-balance`}>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+            A customer has a project on Vercel and they want to redirect the /blog path to another website. Write a reply to the customer.
           </p>
         </a>
 
@@ -237,7 +237,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Find in-depth information about Next.js features and API.
+            Write a reply to the customer addressing the concerns raised in Question 4.
           </p>
         </a>
 
@@ -254,7 +254,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Learn about Next.js in an interactive course with&nbsp;quizzes!
+            Third-party integrations for Monitoring or Logging.
           </p>
         </a>
 
@@ -271,7 +271,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Explore starter templates for Next.js.
+            Overages regarding serverless function execution.
           </p>
         </a>
 
@@ -288,7 +288,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50 text-balance`}>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+            How could we improve or alter this familiarization exercise?
           </p>
         </a>
       </div>
